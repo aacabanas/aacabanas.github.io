@@ -1,0 +1,16 @@
+
+h1.head{
+    font-weight: bolder;
+}
+div.container{
+    align-content: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    border: 1px dashed black;
+}
+button{
+    background-color: transparent;
+    border: none;
+    box-shadow: 0ch;
+    width:max-content;
+}
